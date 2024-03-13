@@ -1,0 +1,20 @@
+max coolant data   max num SS wall  max Pellet dat  
+     4                  6               2          
+ temperature of coolant 
+    400.0     500.0     600.0     800.0                                
+  density of Pb 45% - Bi 55%
+    10574.0   10453.0   10331.0   10087.0                                    
+  viscosity of Pb 45% - Bi 55%
+    3.38e-3   2.33e-3   1.83e-3   1.33e-3  
+  thermal conductivity of Pb 45% - Bi 55%
+    10.9      11.9      12.9      14.9
+  cp of Pb 45% - Bi 55%         
+    146.0     146.0     146.0     146.0 
+temperature of SS/HT9/metal
+ 0.0   100.0   200.0   400.0   600.0   800.0
+density of SS wall
+ 7800.0   7800.0   7800.0   7800.0   7800.0  7800.0
+thermaal conductivity
+ 59.313  56.987  52.335  44.194  37.216  29.075
+cpmt(i),i=1,max
+ 440.1172  488.2747  536.0134  631.4908  727.3869  729.0620
