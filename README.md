@@ -1,2 +1,2 @@
 # SteadyPWR
-Tugas konversi fortran ke python
+Tugas konversi fortran ke python, still on progress
